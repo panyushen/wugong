@@ -13,6 +13,8 @@ public class Dugujiujian {
 		
 		System.out.println("桃花仙人种桃树");
 		
+		System.out.println("lhc又摘桃花换酒钱");
+		
 	}
 
 }
