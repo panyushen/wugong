@@ -8,6 +8,8 @@ public class Dugujiujian {
 		
 		System.out.println("桃花庵下桃花仙");
 		
+		System.out.println("桃花仙人种桃树");
+		
 	}
 
 }
